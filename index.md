@@ -8,3 +8,7 @@
 ``` python
 myVar = print("Hello, world!")
 ```
+
+- [ ] Radfahren
+- [ ] Frühstücken
+- [ ] Zeitung lesen
